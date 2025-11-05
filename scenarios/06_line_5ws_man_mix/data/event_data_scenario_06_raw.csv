@@ -1,0 +1,564 @@
+fauf,materialnummer,menge,arbeitsstation,eventtyp,zustand,zeitstempel,tag_id
+PO-02,Car-02,1,B-Transfer,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 10:58:45.787+01,84b31b00000b805b
+PO-02,Car-02,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:01:31.762+01,84b31b00000b805b
+PO-01,Car-01,1,WS-01,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:17:15.773+01,84b31b00000b8055
+PO-01,Car-01,1,WS-01,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:18:00.937+01,84b31b00000b8055
+PO-01,Car-01,1,B-02,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:18:00.937+01,84b31b00000b8055
+PO-01,Car-01,1,B-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:18:00.937+01,84b31b00000b8055
+PO-06,Car-06,1,Goods-In,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:18:01.1+01,84b31b00000b806c
+PO-01,Car-01,1,WS-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:18:16.132+01,84b31b00000b8055
+PO-01,Car-01,1,B-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:18:16.132+01,84b31b00000b8055
+PO-01,Car-01,1,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:18:31.775+01,84b31b00000b8055
+PO-01,Car-01,1,WS-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:18:45.815+01,84b31b00000b8055
+PO-06,Car-06,1,Goods-In,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:18:46.086+01,84b31b00000b806c
+PO-02,Car-02,1,WS-01,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:18:46.732+01,84b31b00000b805b
+PO-02,Car-02,1,WS-01,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:19:00.828+01,84b31b00000b805b
+PO-01,RT,2,WS-02,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:19:15.962+01,84b31b00000b8177
+PO-02,Car-02,1,WS-01,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:19:30.755+01,84b31b00000b805b
+PO-01,RT,2,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:19:46.359+01,84b31b00000b8177
+PO-01,RT,2,B-Transfer,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:19:46.359+01,84b31b00000b8177
+PO-01,RT,2,B-Transfer,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:19:46.359+01,84b31b00000b8177
+PO-03,Car-03,1,Goods-In,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:20:16.695+01,84b31b00000b805c
+PO-02,BOSP,1,B-Transfer,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:20:31.272+01,84b31b00000b8096
+PO-01,FT,2,WS-02,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:20:45.849+01,84b31b00000b8190
+PO-02,Car-02,1,B-02,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:21:00.845+01,84b31b00000b805b
+PO-02,Car-02,1,WS-01,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:21:00.845+01,84b31b00000b805b
+PO-01,FT,2,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:21:15.946+01,84b31b00000b8190
+PO-01,Car-01,1,B-03,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:21:16.407+01,84b31b00000b8055
+PO-01,Car-01,1,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:21:16.407+01,84b31b00000b8055
+PO-01,Car-01,1,WS-03,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:21:32.168+01,84b31b00000b8055
+PO-01,Car-01,1,B-03,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:21:32.168+01,84b31b00000b8055
+PO-04,Car-04,1,Goods-In,Generation,Totalschaden,2025-01-10 11:21:46.114+01,84b31b00000b8060
+PO-01,FT,2,B-Transfer,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:21:46.142+01,84b31b00000b8190
+PO-01,RT,2,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:21:46.333+01,84b31b00000b8177
+PO-02,Car-02,1,WS-02,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:21:46.521+01,84b31b00000b805b
+PO-02,Car-02,1,B-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:21:46.521+01,84b31b00000b805b
+PO-03,Car-03,1,Goods-In,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:22:15.838+01,84b31b00000b805c
+PO-03,Car-03,1,WS-01,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:22:15.838+01,84b31b00000b805c
+PO-03,Car-03,1,WS-01,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:22:15.838+01,84b31b00000b805c
+PO-01,Car-01,1,B-05,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:22:16.129+01,84b31b00000b8055
+PO-01,Car-01,1,WS-03,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:22:16.129+01,84b31b00000b8055
+PO-01,Car-01,1,B-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:22:31.06+01,84b31b00000b8055
+PO-03,BOSP,1,WS-01,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:22:31.316+01,84b31b00000b80b4
+PO-03,BOSP,1,WS-01,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:23:01.205+01,84b31b00000b80b4
+PO-03,BOSP,1,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:23:01.205+01,84b31b00000b80b4
+PO-03,BOSP,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:23:01.205+01,84b31b00000b80b4
+PO-01,RT,2,B-Transfer,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:23:16.184+01,84b31b00000b8177
+PO-05,Car-05,1,Goods-In,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:23:16.171+01,84b31b00000b8062
+PO-01,Car-01,1,WS-05,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:23:30.754+01,84b31b00000b8055
+PO-02,Car-02,1,WS-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:23:45.824+01,84b31b00000b805b
+PO-03,BAT,1,WS-01,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:23:46.069+01,84b31b00000b8178
+PO-06,Car-06,1,Goods-In,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:24:00.881+01,84b31b00000b806c
+PO-02,Car-02,1,WS-04,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:24:01.889+01,84b31b00000b805b
+PO-02,RT,2,B-04,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:24:02.189+01,84b31b00000b815a
+PO-02,BOSP,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:24:02.185+01,84b31b00000b8096
+PO-02,BOSP,1,WS-03,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:24:02.185+01,84b31b00000b8096
+PO-02,BOSP,1,WS-03,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:24:02.185+01,84b31b00000b8096
+PO-02,BOSP,1,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:24:16.306+01,84b31b00000b8096
+PO-02,BOSP,1,WS-03,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:24:16.306+01,84b31b00000b8096
+PO-03,BAT,1,WS-01,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:24:16.313+01,84b31b00000b8178
+PO-03,BAT,1,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:24:16.313+01,84b31b00000b8178
+PO-03,BAT,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:24:16.313+01,84b31b00000b8178
+PO-03,BOSP,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:24:30.859+01,84b31b00000b80b4
+PO-01,SSA,2,WS-05,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:24:31.179+01,84b31b00000b818b
+PO-01,FT,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:24:46.188+01,84b31b00000b8190
+PO-01,FT,2,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:24:46.188+01,84b31b00000b8190
+PO-01,RT,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:24:46.321+01,84b31b00000b8177
+PO-01,RT,2,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:24:46.321+01,84b31b00000b8177
+PO-02,BOSP,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:24:46.493+01,84b31b00000b8096
+PO-02,BOSP,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:24:46.493+01,84b31b00000b8096
+PO-03,Car-03,1,WS-02,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:24:46.544+01,84b31b00000b805c
+PO-03,Car-03,1,WS-01,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:24:46.544+01,84b31b00000b805c
+PO-03,BOSP,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:24:46.659+01,84b31b00000b80b4
+PO-04,Car-04,1,Goods-In,Exit,Totalschaden,2025-01-10 11:25:00.871+01,84b31b00000b8060
+PO-04,Car-04,1,WS-01,Generation,Totalschaden,2025-01-10 11:25:00.871+01,84b31b00000b8060
+PO-04,Car-04,1,WS-01,Entry,Totalschaden,2025-01-10 11:25:00.871+01,84b31b00000b8060
+PO-01,SSA,2,WS-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:25:01.138+01,84b31b00000b818b
+PO-01,SSA,2,B-04,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:25:01.138+01,84b31b00000b818b
+PO-01,SSA,2,B-04,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:25:01.138+01,84b31b00000b818b
+PO-03,BAT,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:25:16.037+01,84b31b00000b8178
+PO-03,BAT,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:25:16.037+01,84b31b00000b8178
+PO-01,SSA,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:25:16.237+01,84b31b00000b818b
+PO-01,SSA,2,B-04,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:25:16.237+01,84b31b00000b818b
+PO-02,RT,2,B-04,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:25:16.588+01,84b31b00000b815a
+PO-02,RT,2,Goods-Out,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:25:16.588+01,84b31b00000b815a
+PO-02,RT,2,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:25:16.588+01,84b31b00000b815a
+PO-04,BOSP,1,WS-01,Generation,Totalschaden,2025-01-10 11:25:17.053+01,84b31b00000b80ab
+PO-04,Car-04,1,WS-01,Exit,Totalschaden,2025-01-10 11:25:30.872+01,84b31b00000b8060
+PO-04,Car-04,1,WS-01,Entry,Totalschaden,2025-01-10 11:25:46.371+01,84b31b00000b8060
+PO-04,BOSP,1,WS-01,Exit,Totalschaden,2025-01-10 11:26:01.165+01,84b31b00000b80ab
+PO-04,BOSP,1,B-Transfer,Generation,Totalschaden,2025-01-10 11:26:01.165+01,84b31b00000b80ab
+PO-04,BOSP,1,B-Transfer,Entry,Totalschaden,2025-01-10 11:26:01.165+01,84b31b00000b80ab
+PO-03,RT,2,WS-02,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:25:45.877+01,84b31b00000b818f
+PO-04,BAT,1,WS-01,Generation,Totalschaden,2025-01-10 11:26:01.233+01,84b31b00000b8130
+PO-07,Car-07,1,Goods-In,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:26:16.183+01,84b31b00000b806d
+PO-04,BAT,1,WS-01,Exit,Totalschaden,2025-01-10 11:26:46.137+01,84b31b00000b8130
+PO-03,RT,2,WS-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:26:49.833+01,84b31b00000b818f
+PO-02,CORE,1,WS-04,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:26:30.783+01,84b31b00000b8193
+PO-04,Car-04,1,WS-01,Exit,Totalschaden,2025-01-10 11:27:00.834+01,84b31b00000b8060
+PO-04,BAT,1,Goods-Out,Entry,Totalschaden,2025-01-10 11:27:01.029+01,84b31b00000b8130
+PO-04,BOSP,1,Goods-Out,Entry,Totalschaden,2025-01-10 11:27:01.374+01,84b31b00000b80ab
+PO-04,BOSP,1,B-Transfer,Exit,Totalschaden,2025-01-10 11:27:01.374+01,84b31b00000b80ab
+PO-03,RT,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:27:01.546+01,84b31b00000b818f
+PO-05,Car-05,1,Goods-In,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:27:15.849+01,84b31b00000b8062
+PO-05,Car-05,1,B-02,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:27:15.849+01,84b31b00000b8062
+PO-05,Car-05,1,B-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:27:15.849+01,84b31b00000b8062
+PO-04,Car-04,1,B-02,Entry,Totalschaden,2025-01-10 11:27:16.24+01,84b31b00000b8060
+PO-06,Car-06,1,WS-01,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:27:16.783+01,84b31b00000b806c
+PO-06,Car-06,1,Goods-In,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:27:16.783+01,84b31b00000b806c
+PO-02,BOSP,1,Goods-Out,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:27:16.842+01,84b31b00000b8096
+PO-01,BSA,2,B-05,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:27:01.497+01,84b31b00000b8094
+PO-07,Car-07,1,Goods-In,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:27:31.35+01,84b31b00000b806d
+PO-01,BSA,2,B-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:27:31.452+01,84b31b00000b8094
+PO-01,BSA,2,WS-05,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:27:31.452+01,84b31b00000b8094
+PO-01,BSA,2,WS-05,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:27:31.452+01,84b31b00000b8094
+PO-02,BOSP,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:27:31.476+01,84b31b00000b8096
+PO-02,Car-02,1,WS-04,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:27:45.868+01,84b31b00000b805b
+PO-01,BSA,2,B-Transfer,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:27:45.93+01,84b31b00000b8094
+PO-01,BSA,2,WS-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:27:45.93+01,84b31b00000b8094
+PO-03,Car-03,1,B-02,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:27:45.975+01,84b31b00000b805c
+PO-03,Car-03,1,WS-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:27:45.975+01,84b31b00000b805c
+PO-02,Car-02,1,B-05,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:28:00.774+01,84b31b00000b805b
+PO-04,Car-04,1,WS-02,Entry,Totalschaden,2025-01-10 11:28:00.929+01,84b31b00000b8060
+PO-04,Car-04,1,B-02,Exit,Totalschaden,2025-01-10 11:28:00.929+01,84b31b00000b8060
+PO-02,CORE,1,WS-04,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:28:00.98+01,84b31b00000b8193
+PO-02,CORE,1,B-Transfer,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:28:00.98+01,84b31b00000b8193
+PO-02,CORE,1,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:28:00.98+01,84b31b00000b8193
+PO-07,Car-07,1,Goods-In,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:28:01.501+01,84b31b00000b806d
+PO-07,Car-07,1,Goods-In,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:28:15.872+01,84b31b00000b806d
+PO-06,BOSP,1,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:28:16.175+01,84b31b00000b8158
+PO-01,BSA,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:28:16.167+01,84b31b00000b8094
+PO-01,BSA,2,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:28:16.167+01,84b31b00000b8094
+PO-02,CORE,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:28:16.233+01,84b31b00000b8193
+PO-05,Car-05,1,B-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:28:16.43+01,84b31b00000b8062
+PO-03,Car-03,1,B-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:28:17.455+01,84b31b00000b805c
+PO-03,BAT,1,Goods-Out,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:28:17.586+01,84b31b00000b8178
+PO-01,Car-01,1,B-05,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:28:30.713+01,84b31b00000b8055
+PO-01,Car-01,1,WS-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:28:30.713+01,84b31b00000b8055
+PO-05,Car-05,1,B-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:28:31.265+01,84b31b00000b8062
+PO-03,BAT,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:28:31.35+01,84b31b00000b8178
+PO-06,Car-06,1,WS-01,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:28:31.846+01,84b31b00000b806c
+PO-07,Car-07,1,Goods-In,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:28:46.017+01,84b31b00000b806d
+PO-06,Car-06,1,WS-01,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:28:46.173+01,84b31b00000b806c
+PO-08,Car-08,1,Goods-In,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:28:46.243+01,84b31b00000b8072
+PO-01,Car-01,1,B-Transfer,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:28:46.253+01,84b31b00000b8055
+PO-01,Car-01,1,B-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:28:46.253+01,84b31b00000b8055
+PO-02,CORE,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:29:01.053+01,84b31b00000b8193
+PO-06,BAT,1,WS-01,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:28:49.893+01,84b31b00000b81a7
+PO-03,Car-03,1,B-03,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:29:15.75+01,84b31b00000b805c
+PO-02,Car-02,1,WS-05,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:29:16.237+01,84b31b00000b805b
+PO-02,Car-02,1,B-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:29:16.237+01,84b31b00000b805b
+PO-09,Car-09,1,Goods-In,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:29:16.715+01,84b31b00000b807c
+PO-04,RT,2,WS-02,Generation,Totalschaden,2025-01-10 11:29:16.354+01,84b31b00000b814c
+PO-01,Car-01,1,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:29:31.034+01,84b31b00000b8055
+PO-01,Car-01,1,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:29:31.034+01,84b31b00000b8055
+PO-06,BAT,1,WS-01,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:29:31.045+01,84b31b00000b81a7
+PO-03,Car-03,1,WS-03,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:29:31.132+01,84b31b00000b805c
+PO-03,Car-03,1,B-03,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:29:31.132+01,84b31b00000b805c
+PO-06,BOSP,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:29:31.689+01,84b31b00000b8158
+PO-06,BOSP,1,Goods-Out,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:29:31.689+01,84b31b00000b8158
+PO-06,BOSP,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:29:31.689+01,84b31b00000b8158
+PO-09,Car-09,1,Goods-In,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:29:31.795+01,84b31b00000b807c
+PO-07,Car-07,1,Goods-In,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:29:45.745+01,84b31b00000b806d
+PO-04,RT,2,WS-02,Exit,Totalschaden,2025-01-10 11:29:46.393+01,84b31b00000b814c
+PO-04,RT,2,B-Transfer,Entry,Totalschaden,2025-01-10 11:30:00.793+01,84b31b00000b814c
+PO-06,BAT,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:30:00.87+01,84b31b00000b81a7
+PO-03,FT,2,Goods-Out,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:30:01.391+01,84b31b00000b816d
+PO-09,Car-09,1,Goods-In,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:30:01.447+01,84b31b00000b807c
+PO-06,Car-06,1,B-02,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:30:01.693+01,84b31b00000b806c
+PO-06,Car-06,1,WS-01,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:30:01.693+01,84b31b00000b806c
+PO-07,Car-07,1,WS-01,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:30:15.76+01,84b31b00000b806d
+PO-04,RT,2,Goods-Out,Entry,Totalschaden,2025-01-10 11:30:16.261+01,84b31b00000b814c
+PO-04,RT,2,B-Transfer,Exit,Totalschaden,2025-01-10 11:30:16.261+01,84b31b00000b814c
+PO-06,BAT,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:30:16.449+01,84b31b00000b81a7
+PO-06,BAT,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:30:16.449+01,84b31b00000b81a7
+PO-02,BSA,2,B-05,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:30:16.452+01,84b31b00000b813f
+PO-01,FT,2,WS-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:30:31.015+01,84b31b00000b8190
+PO-01,FT,2,Goods-Out,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:30:31.015+01,84b31b00000b8190
+PO-02,BSA,2,B-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:30:31.086+01,84b31b00000b813f
+PO-02,BSA,2,WS-05,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:30:31.086+01,84b31b00000b813f
+PO-02,BSA,2,WS-05,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:30:31.086+01,84b31b00000b813f
+PO-04,RT,2,Goods-Out,Exit,Totalschaden,2025-01-10 11:30:31.161+01,84b31b00000b814c
+PO-04,RT,2,B-05,Entry,Totalschaden,2025-01-10 11:30:46.23+01,84b31b00000b814c
+PO-07,BOSP,1,WS-01,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:30:15.766+01,84b31b00000b812a
+PO-02,Car-02,1,WS-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:30:47.321+01,84b31b00000b805b
+PO-07,BOSP,1,WS-01,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:00.98+01,84b31b00000b812a
+PO-07,BOSP,1,B-Transfer,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:00.98+01,84b31b00000b812a
+PO-07,BOSP,1,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:00.98+01,84b31b00000b812a
+PO-10,Car-10,1,Goods-In,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:31:01.587+01,84b31b00000b807d
+PO-02,Car-02,1,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:01.666+01,84b31b00000b805b
+PO-02,BSA,2,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:16.252+01,84b31b00000b813f
+PO-02,BSA,2,WS-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:16.252+01,84b31b00000b813f
+PO-08,Car-08,1,Goods-In,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:31:31.033+01,84b31b00000b8072
+PO-07,Car-07,1,WS-01,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:30.894+01,84b31b00000b806d
+PO-02,Car-02,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:45.743+01,84b31b00000b805b
+PO-02,Car-02,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:45.743+01,84b31b00000b805b
+PO-01,FT,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:31:45.752+01,84b31b00000b8190
+PO-01,FT,2,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:31:45.752+01,84b31b00000b8190
+PO-08,Car-08,1,WS-01,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:31:45.759+01,84b31b00000b8072
+PO-07,Car-07,1,B-02,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:46.286+01,84b31b00000b806d
+PO-03,Car-03,1,WS-04,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:31:46.324+01,84b31b00000b805c
+PO-03,Car-03,1,WS-03,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:31:46.324+01,84b31b00000b805c
+PO-07,BOSP,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:46.332+01,84b31b00000b812a
+PO-07,BOSP,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:31:46.332+01,84b31b00000b812a
+PO-10,Car-10,1,Goods-In,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:32:01.103+01,84b31b00000b807d
+PO-04,RT,2,Goods-Out,Entry,Totalschaden,2025-01-10 11:32:01.122+01,84b31b00000b814c
+PO-04,RT,2,B-05,Exit,Totalschaden,2025-01-10 11:32:01.122+01,84b31b00000b814c
+PO-09,Car-09,1,Goods-In,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:32:01.265+01,84b31b00000b807c
+PO-02,BSA,2,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:32:15.752+01,84b31b00000b813f
+PO-02,BSA,2,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:32:15.752+01,84b31b00000b813f
+PO-09,Car-09,1,Goods-In,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:32:16.609+01,84b31b00000b807c
+PO-08,BOSP,1,WS-01,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:32:16.314+01,84b31b00000b8082
+PO-04,FT,2,B-Transfer,Generation,Totalschaden,2025-01-10 11:32:00.755+01,84b31b00000b807e
+PO-06,Car-06,1,B-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:32:31.473+01,84b31b00000b806c
+PO-08,BOSP,1,WS-01,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:32:46.218+01,84b31b00000b8082
+PO-08,BOSP,1,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:32:46.218+01,84b31b00000b8082
+PO-08,BOSP,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:32:46.218+01,84b31b00000b8082
+PO-10,Car-10,1,Goods-In,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:33:00.776+01,84b31b00000b807d
+PO-08,BAT,1,WS-01,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:33:15.868+01,84b31b00000b8118
+PO-08,BAT,1,WS-01,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:33:30.692+01,84b31b00000b8118
+PO-08,BAT,1,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:33:30.692+01,84b31b00000b8118
+PO-08,BAT,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:33:30.692+01,84b31b00000b8118
+PO-06,Car-06,1,B-02,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:33:31.006+01,84b31b00000b806c
+PO-05,RT,2,WS-02,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:33:31.687+01,84b31b00000b8091
+PO-03,FAXS,1,WS-05,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:33:31.014+01,84b31b00000b817a
+PO-07,Car-07,1,B-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:33:46.518+01,84b31b00000b806d
+PO-03,SSA,2,WS-05,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:33:31.53+01,84b31b00000b8140
+PO-05,Car-05,1,WS-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:34:01.225+01,84b31b00000b8062
+PO-05,Car-05,1,B-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:34:01.225+01,84b31b00000b8062
+PO-09,Car-09,1,Goods-In,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:34:01.262+01,84b31b00000b807c
+PO-08,Car-08,1,WS-01,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:34:01.509+01,84b31b00000b8072
+PO-03,SSA,2,WS-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:34:15.754+01,84b31b00000b8140
+PO-03,SSA,2,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:34:15.754+01,84b31b00000b8140
+PO-03,SSA,2,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:34:15.754+01,84b31b00000b8140
+PO-09,Car-09,1,WS-01,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:34:15.962+01,84b31b00000b807c
+PO-07,Car-07,1,B-02,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:34:17.593+01,84b31b00000b806d
+PO-05,RT,2,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:34:19.886+01,84b31b00000b8091
+PO-04,FT,2,B-Transfer,Exit,Totalschaden,2025-01-10 11:34:45.768+01,84b31b00000b807e
+PO-05,FT,2,B-02,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:34:46.496+01,84b31b00000b818e
+PO-09,BOSP,1,WS-01,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:34:46.576+01,84b31b00000b8170
+PO-05,RT,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:00.81+01,84b31b00000b8091
+PO-05,FT,2,B-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:00.85+01,84b31b00000b818e
+PO-05,FT,2,WS-02,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:00.85+01,84b31b00000b818e
+PO-05,FT,2,WS-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:00.85+01,84b31b00000b818e
+PO-08,BAT,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:35:01.02+01,84b31b00000b8118
+PO-08,BAT,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:35:01.02+01,84b31b00000b8118
+PO-04,FT,2,Goods-Out,Entry,Totalschaden,2025-01-10 11:35:01.333+01,84b31b00000b807e
+PO-05,Car-05,1,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:16.155+01,84b31b00000b8062
+PO-09,BOSP,1,WS-01,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:35:16.176+01,84b31b00000b8170
+PO-03,FAXS,1,WS-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:35:16.191+01,84b31b00000b817a
+PO-03,FAXS,1,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:35:16.191+01,84b31b00000b817a
+PO-03,FAXS,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:35:16.191+01,84b31b00000b817a
+PO-08,BOSP,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:35:16.185+01,84b31b00000b8082
+PO-08,BOSP,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:35:16.185+01,84b31b00000b8082
+PO-05,FT,2,B-Transfer,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:16.335+01,84b31b00000b818e
+PO-05,FT,2,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:16.335+01,84b31b00000b818e
+PO-03,CHS,1,WS-04,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:35:15.85+01,84b31b00000b8084
+PO-03,SSA,2,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:35:31.127+01,84b31b00000b8140
+PO-05,Car-05,1,WS-05,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:31.246+01,84b31b00000b8062
+PO-09,Car-09,1,B-02,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:35:31.312+01,84b31b00000b807c
+PO-09,Car-09,1,WS-01,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:35:31.312+01,84b31b00000b807c
+PO-06,Car-06,1,WS-02,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:35:31.429+01,84b31b00000b806c
+PO-06,Car-06,1,B-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:35:31.429+01,84b31b00000b806c
+PO-09,BOSP,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:35:45.729+01,84b31b00000b8170
+PO-03,CHS,1,WS-04,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:35:45.903+01,84b31b00000b8084
+PO-03,CHS,1,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:35:45.903+01,84b31b00000b8084
+PO-03,CHS,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:35:45.903+01,84b31b00000b8084
+PO-03,FAXS,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:35:46.36+01,84b31b00000b817a
+PO-03,FAXS,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:35:46.36+01,84b31b00000b817a
+PO-03,SSA,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:35:46.373+01,84b31b00000b8140
+PO-05,FT,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:46.385+01,84b31b00000b818e
+PO-05,FT,2,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:46.385+01,84b31b00000b818e
+PO-10,Car-10,1,B-01,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:46.427+01,84b31b00000b807d
+PO-10,Car-10,1,Goods-In,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:35:46.427+01,84b31b00000b807d
+PO-08,Car-08,1,B-02,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:35:46.467+01,84b31b00000b8072
+PO-10,Car-10,1,B-01,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:36:00.876+01,84b31b00000b807d
+PO-03,Car-03,1,B-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:36:16.73+01,84b31b00000b805c
+PO-03,Car-03,1,WS-04,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:36:16.73+01,84b31b00000b805c
+PO-10,Car-10,1,WS-01,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:36:16.843+01,84b31b00000b807d
+PO-06,RT,2,WS-02,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:36:30.838+01,84b31b00000b814d
+PO-06,RT,2,WS-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:37:01.128+01,84b31b00000b814d
+PO-06,RT,2,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:37:01.128+01,84b31b00000b814d
+PO-06,RT,2,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:37:01.128+01,84b31b00000b814d
+PO-06,Car-06,1,WS-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:37:16.822+01,84b31b00000b806c
+PO-10,BOSP,1,WS-01,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:37:16.628+01,84b31b00000b80be
+PO-05,SSA,2,B-05,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:37:16.702+01,84b31b00000b8097
+PO-05,SSA,2,B-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:37:32.034+01,84b31b00000b8097
+PO-05,SSA,2,WS-05,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:37:32.034+01,84b31b00000b8097
+PO-05,SSA,2,WS-05,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:37:32.034+01,84b31b00000b8097
+PO-06,FT,2,WS-02,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:37:30.948+01,84b31b00000b8119
+PO-06,RT,2,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:37:45.761+01,84b31b00000b814d
+PO-10,BOSP,1,WS-01,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:37:45.985+01,84b31b00000b80be
+PO-10,BOSP,1,B-Transfer,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:37:45.985+01,84b31b00000b80be
+PO-10,BOSP,1,B-Transfer,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:37:45.985+01,84b31b00000b80be
+PO-05,SSA,2,WS-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:37:46.151+01,84b31b00000b8097
+PO-06,Car-06,1,WS-02,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:37:46.168+01,84b31b00000b806c
+PO-03,CHS,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:38:00.722+01,84b31b00000b8084
+PO-09,Car-09,1,WS-02,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:38:00.779+01,84b31b00000b807c
+PO-09,Car-09,1,B-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:38:00.779+01,84b31b00000b807c
+PO-05,SSA,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:38:00.849+01,84b31b00000b8097
+PO-07,BOSP,1,Goods-Out,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:38:01.253+01,84b31b00000b812a
+PO-03,CHS,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:38:15.848+01,84b31b00000b8084
+PO-07,Car-07,1,WS-02,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:38:16.142+01,84b31b00000b806d
+PO-07,Car-07,1,B-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:38:16.142+01,84b31b00000b806d
+PO-07,BOSP,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:38:16.217+01,84b31b00000b812a
+PO-09,Car-09,1,WS-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:38:16.552+01,84b31b00000b807c
+PO-10,Car-10,1,WS-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:38:30.902+01,84b31b00000b807d
+PO-10,Car-10,1,WS-01,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:38:30.902+01,84b31b00000b807d
+PO-07,BOSP,1,Goods-Out,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:38:31.084+01,84b31b00000b812a
+PO-09,Car-09,1,WS-02,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:38:31.258+01,84b31b00000b807c
+PO-06,RT,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:38:31.268+01,84b31b00000b814d
+PO-06,Car-06,1,WS-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:38:31.649+01,84b31b00000b806c
+PO-06,Car-06,1,B-03,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:38:45.958+01,84b31b00000b806c
+PO-07,BOSP,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:38:46.02+01,84b31b00000b812a
+PO-06,FT,2,WS-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:38:46.5+01,84b31b00000b8119
+PO-06,FT,2,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:38:46.5+01,84b31b00000b8119
+PO-06,FT,2,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:38:46.5+01,84b31b00000b8119
+PO-10,BOSP,1,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:39:01.211+01,84b31b00000b80be
+PO-10,BOSP,1,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:39:01.211+01,84b31b00000b80be
+PO-06,Car-06,1,WS-03,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:39:01.36+01,84b31b00000b806c
+PO-06,Car-06,1,B-03,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:39:01.36+01,84b31b00000b806c
+PO-06,FT,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:39:16.517+01,84b31b00000b8119
+PO-06,FT,2,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:39:16.517+01,84b31b00000b8119
+PO-06,Car-06,1,B-03,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:39:31.413+01,84b31b00000b806c
+PO-07,RT,2,B-Transfer,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:39:30.726+01,84b31b00000b8136
+PO-06,Car-06,1,B-03,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:39:46.291+01,84b31b00000b806c
+PO-07,Car-07,1,WS-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:39:46.313+01,84b31b00000b806d
+PO-09,Car-09,1,B-02,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:39:46.405+01,84b31b00000b807c
+PO-09,Car-09,1,WS-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:39:46.405+01,84b31b00000b807c
+PO-10,Car-10,1,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:40:00.837+01,84b31b00000b807d
+PO-08,Car-08,1,WS-02,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:40:00.833+01,84b31b00000b8072
+PO-08,Car-08,1,B-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:40:00.833+01,84b31b00000b8072
+PO-05,BSA,2,B-05,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:40:00.856+01,84b31b00000b8146
+PO-05,Car-05,1,WS-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:40:15.873+01,84b31b00000b8062
+PO-06,FAXS,1,WS-03,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:40:15.723+01,84b31b00000b80bd
+PO-07,Car-07,1,WS-04,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:40:30.812+01,84b31b00000b806d
+PO-05,BSA,2,B-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:40:31.166+01,84b31b00000b8146
+PO-05,BSA,2,B-Transfer,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:40:31.166+01,84b31b00000b8146
+PO-05,BSA,2,B-Transfer,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:40:31.166+01,84b31b00000b8146
+PO-05,Car-05,1,B-05,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:40:46.168+01,84b31b00000b8062
+PO-10,Car-10,1,WS-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:40:46.418+01,84b31b00000b807d
+PO-05,Car-05,1,B-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:41:01.044+01,84b31b00000b8062
+PO-06,FAXS,1,WS-03,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:41:01.346+01,84b31b00000b80bd
+PO-06,FAXS,1,B-05,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:41:01.346+01,84b31b00000b80bd
+PO-06,FAXS,1,B-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:41:01.346+01,84b31b00000b80bd
+PO-05,BSA,2,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:41:01.4+01,84b31b00000b8146
+PO-07,RT,2,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:41:01.546+01,84b31b00000b8136
+PO-05,Car-05,1,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:41:16.165+01,84b31b00000b8062
+PO-03,Car-03,1,WS-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:41:16.231+01,84b31b00000b805c
+PO-03,Car-03,1,B-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:41:16.231+01,84b31b00000b805c
+PO-05,BSA,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:41:16.408+01,84b31b00000b8146
+PO-07,RT,2,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:41:16.462+01,84b31b00000b8136
+PO-08,RT,2,B-02,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:41:15.841+01,84b31b00000b81a9
+PO-07,CORE,1,B-04,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:41:31.34+01,84b31b00000b8194
+PO-03,SSA,2,Goods-Out,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:41:46.274+01,84b31b00000b8140
+PO-10,Car-10,1,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:41:46.423+01,84b31b00000b807d
+PO-08,RT,2,B-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:42:01.253+01,84b31b00000b81a9
+PO-06,Car-06,1,B-04,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:42:01.306+01,84b31b00000b806c
+PO-06,Car-06,1,WS-03,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:42:01.306+01,84b31b00000b806c
+PO-10,Car-10,1,B-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:42:04.839+01,84b31b00000b807d
+PO-03,SSA,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:42:15.738+01,84b31b00000b8140
+PO-07,Car-07,1,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:42:16.22+01,84b31b00000b806d
+PO-07,Car-07,1,WS-04,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:42:16.22+01,84b31b00000b806d
+PO-08,RT,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:42:16.361+01,84b31b00000b81a9
+PO-07,Car-07,1,B-05,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:42:31.01+01,84b31b00000b806d
+PO-07,Car-07,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:42:31.01+01,84b31b00000b806d
+PO-01,BSA,2,WS-04,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:42:31.089+01,84b31b00000b8094
+PO-01,BSA,2,Goods-Out,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:42:31.089+01,84b31b00000b8094
+PO-07,CORE,1,B-04,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:42:31.132+01,84b31b00000b8194
+PO-07,CORE,1,B-Transfer,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:42:31.132+01,84b31b00000b8194
+PO-07,CORE,1,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:42:31.132+01,84b31b00000b8194
+PO-03,BSA,2,B-05,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:42:31.115+01,84b31b00000b8159
+PO-06,Car-06,1,WS-04,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:42:45.852+01,84b31b00000b806c
+PO-06,Car-06,1,B-04,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:42:45.852+01,84b31b00000b806c
+PO-01,BSA,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:43:00.859+01,84b31b00000b8094
+PO-01,BSA,2,WS-04,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:43:00.859+01,84b31b00000b8094
+PO-08,Car-08,1,WS-02,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:43:01.46+01,84b31b00000b8072
+PO-03,BSA,2,B-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:43:01.464+01,84b31b00000b8159
+PO-03,BSA,2,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:43:01.464+01,84b31b00000b8159
+PO-03,BSA,2,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:43:01.464+01,84b31b00000b8159
+PO-07,CORE,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:43:01.493+01,84b31b00000b8194
+PO-07,CORE,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:43:01.493+01,84b31b00000b8194
+PO-03,BSA,2,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:43:15.888+01,84b31b00000b8159
+PO-08,Car-08,1,WS-03,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:43:16.053+01,84b31b00000b8072
+PO-09,Car-09,1,WS-02,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:43:16.152+01,84b31b00000b807c
+PO-09,Car-09,1,B-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:43:16.152+01,84b31b00000b807c
+PO-03,Car-03,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:43:16.526+01,84b31b00000b805c
+PO-03,Car-03,1,WS-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:43:16.526+01,84b31b00000b805c
+PO-06,FAXS,1,WS-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:43:16.76+01,84b31b00000b80bd
+PO-06,FAXS,1,B-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:43:16.76+01,84b31b00000b80bd
+PO-10,Car-10,1,B-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:43:31.152+01,84b31b00000b807d
+PO-08,FT,2,Goods-Out,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:43:31.227+01,84b31b00000b8148
+PO-06,CHS,1,B-04,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:43:46.557+01,84b31b00000b809b
+PO-03,BSA,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:44:01.127+01,84b31b00000b8159
+PO-06,CHS,1,B-04,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:44:16.28+01,84b31b00000b809b
+PO-06,CHS,1,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:44:16.28+01,84b31b00000b809b
+PO-06,CHS,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:44:16.28+01,84b31b00000b809b
+PO-06,Car-06,1,B-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:44:30.981+01,84b31b00000b806c
+PO-06,Car-06,1,WS-04,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:44:30.981+01,84b31b00000b806c
+PO-08,Car-08,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:44:31.378+01,84b31b00000b8072
+PO-08,Car-08,1,WS-03,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:44:31.378+01,84b31b00000b8072
+PO-09,RT,2,WS-02,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:44:16.232+01,84b31b00000b8098
+PO-06,SSA,2,WS-05,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:44:30.967+01,84b31b00000b8157
+PO-09,RT,2,WS-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:44:46.103+01,84b31b00000b8098
+PO-06,SSA,2,WS-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:45:01.338+01,84b31b00000b8157
+PO-10,Car-10,1,B-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:45:01.326+01,84b31b00000b807d
+PO-08,FAXS,1,WS-03,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:45:01.104+01,84b31b00000b80ac
+PO-06,SSA,2,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:45:15.765+01,84b31b00000b8157
+PO-08,Car-08,1,WS-03,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:45:15.824+01,84b31b00000b8072
+PO-08,Car-08,1,Goods-Out,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:45:15.824+01,84b31b00000b8072
+PO-09,RT,2,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:45:15.841+01,84b31b00000b8098
+PO-09,Car-09,1,WS-02,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:45:16.652+01,84b31b00000b807c
+PO-06,FAXS,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:45:31.032+01,84b31b00000b80bd
+PO-06,FAXS,1,WS-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:45:31.032+01,84b31b00000b80bd
+PO-10,Car-10,1,WS-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:45:31.596+01,84b31b00000b807d
+PO-10,Car-10,1,B-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:45:31.596+01,84b31b00000b807d
+PO-09,Car-09,1,WS-04,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:45:31.629+01,84b31b00000b807c
+PO-06,FAXS,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:46:00.714+01,84b31b00000b80bd
+PO-09,RT,2,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:46:00.766+01,84b31b00000b8098
+PO-09,RT,2,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:46:00.766+01,84b31b00000b8098
+PO-08,FAXS,1,WS-03,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:46:01.261+01,84b31b00000b80ac
+PO-08,FAXS,1,B-05,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:46:01.261+01,84b31b00000b80ac
+PO-08,FAXS,1,B-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:46:01.261+01,84b31b00000b80ac
+PO-06,SSA,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:46:02.041+01,84b31b00000b8157
+PO-06,SSA,2,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:46:02.041+01,84b31b00000b8157
+PO-01,BSA,2,Goods-Out,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:46:05.261+01,84b31b00000b8094
+PO-06,FAXS,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:46:15.883+01,84b31b00000b80bd
+PO-08,Car-08,1,B-04,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:46:16.263+01,84b31b00000b8072
+PO-08,Car-08,1,WS-03,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:46:16.263+01,84b31b00000b8072
+PO-06,Car-06,1,WS-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:46:16.283+01,84b31b00000b806c
+PO-06,Car-06,1,B-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:46:16.283+01,84b31b00000b806c
+PO-09,Car-09,1,WS-04,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:46:16.612+01,84b31b00000b807c
+PO-05,Car-05,1,Goods-Out,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:46:30.956+01,84b31b00000b8062
+PO-01,BSA,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:46:30.972+01,84b31b00000b8094
+PO-09,Car-09,1,WS-04,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:46:31.361+01,84b31b00000b807c
+PO-05,Car-05,1,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:46:46.854+01,84b31b00000b8062
+PO-05,BSA,2,Goods-Out,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:47:01.404+01,84b31b00000b8146
+PO-09,CORE,1,WS-04,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:47:01.43+01,84b31b00000b80aa
+PO-06,BSA,2,WS-05,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:47:01.492+01,84b31b00000b80b0
+PO-05,BSA,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:47:16.216+01,84b31b00000b8146
+PO-09,CORE,1,WS-04,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:47:16.533+01,84b31b00000b80aa
+PO-10,RT,2,B-Transfer,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:47:01.419+01,84b31b00000b8155
+PO-06,BSA,2,WS-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:47:30.836+01,84b31b00000b80b0
+PO-06,BSA,2,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:47:30.836+01,84b31b00000b80b0
+PO-06,BSA,2,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:47:30.836+01,84b31b00000b80b0
+PO-09,CORE,1,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:47:31.144+01,84b31b00000b80aa
+PO-07,Car-07,1,WS-04,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:47:31.141+01,84b31b00000b806d
+PO-07,Car-07,1,B-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:47:31.141+01,84b31b00000b806d
+PO-06,CHS,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:47:45.829+01,84b31b00000b809b
+PO-06,Car-06,1,WS-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:47:46.108+01,84b31b00000b806c
+PO-09,Car-09,1,B-05,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:47:46.134+01,84b31b00000b807c
+PO-09,Car-09,1,WS-04,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:47:46.134+01,84b31b00000b807c
+PO-07,Car-07,1,B-05,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:47:46.537+01,84b31b00000b806d
+PO-07,Car-07,1,WS-04,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:47:46.537+01,84b31b00000b806d
+PO-06,Car-06,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:48:01.331+01,84b31b00000b806c
+PO-07,Car-07,1,WS-05,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:48:01.345+01,84b31b00000b806d
+PO-07,Car-07,1,B-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:48:01.345+01,84b31b00000b806d
+PO-06,CHS,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:48:01.348+01,84b31b00000b809b
+PO-10,Car-10,1,B-02,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:01.546+01,84b31b00000b807d
+PO-10,Car-10,1,WS-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:01.546+01,84b31b00000b807d
+PO-08,Car-08,1,WS-04,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:48:01.671+01,84b31b00000b8072
+PO-08,Car-08,1,B-04,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:48:01.671+01,84b31b00000b8072
+PO-09,CORE,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:48:01.761+01,84b31b00000b80aa
+PO-09,CORE,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:48:01.761+01,84b31b00000b80aa
+PO-10,FT,2,B-Transfer,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:02.399+01,84b31b00000b809c
+PO-03,Car-03,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:48:15.64+01,84b31b00000b805c
+PO-06,BSA,2,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:48:16.086+01,84b31b00000b80b0
+PO-10,RT,2,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:16.087+01,84b31b00000b8155
+PO-10,RT,2,Goods-Out,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:16.087+01,84b31b00000b8155
+PO-10,RT,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:16.087+01,84b31b00000b8155
+PO-05,Car-05,1,Goods-Out,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:16.171+01,84b31b00000b8062
+PO-06,Car-06,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:48:16.302+01,84b31b00000b806c
+PO-07,RT,2,Goods-Out,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:48:16.575+01,84b31b00000b8136
+PO-05,BSA,2,Goods-Out,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:19.814+01,84b31b00000b8146
+PO-05,BSA,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:31.031+01,84b31b00000b8146
+PO-10,FT,2,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:31.074+01,84b31b00000b809c
+PO-10,FT,2,Goods-Out,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:31.074+01,84b31b00000b809c
+PO-10,FT,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:48:31.074+01,84b31b00000b809c
+PO-06,BSA,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:48:31.432+01,84b31b00000b80b0
+PO-03,Car-03,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:49:00.917+01,84b31b00000b805c
+PO-08,BOSP,1,Goods-Out,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:49:00.962+01,84b31b00000b8082
+PO-10,Car-10,1,B-05,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:49:01.534+01,84b31b00000b807d
+PO-10,Car-10,1,B-02,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:49:01.534+01,84b31b00000b807d
+PO-08,CHS,1,WS-04,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:49:15.84+01,84b31b00000b813e
+PO-06,Car-06,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:49:16.063+01,84b31b00000b806c
+PO-08,CHS,1,WS-04,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:49:31.534+01,84b31b00000b813e
+PO-08,CHS,1,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:49:31.534+01,84b31b00000b813e
+PO-08,CHS,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:49:31.534+01,84b31b00000b813e
+PO-08,CHS,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:49:45.692+01,84b31b00000b813e
+PO-08,CHS,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:49:45.692+01,84b31b00000b813e
+PO-07,Car-07,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:49:46.252+01,84b31b00000b806d
+PO-07,Car-07,1,WS-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:49:46.252+01,84b31b00000b806d
+PO-07,BSA,2,WS-05,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:49:31.471+01,84b31b00000b80bb
+PO-07,Car-07,1,WS-05,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:50:00.969+01,84b31b00000b806d
+PO-07,Car-07,1,Goods-Out,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:50:00.969+01,84b31b00000b806d
+PO-08,Car-08,1,B-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:50:01.406+01,84b31b00000b8072
+PO-07,BSA,2,WS-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:50:15.856+01,84b31b00000b80bb
+PO-07,BSA,2,B-Transfer,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:50:15.856+01,84b31b00000b80bb
+PO-07,BSA,2,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:50:15.856+01,84b31b00000b80bb
+PO-08,Car-08,1,WS-04,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:50:16.017+01,84b31b00000b8072
+PO-07,Car-07,1,WS-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:50:16.17+01,84b31b00000b806d
+PO-08,FAXS,1,B-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:50:16.423+01,84b31b00000b80ac
+PO-06,BSA,2,B-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:50:30.784+01,84b31b00000b80b0
+PO-06,BSA,2,Goods-Out,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:50:30.784+01,84b31b00000b80b0
+PO-07,Car-07,1,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:50:31.266+01,84b31b00000b806d
+PO-07,BSA,2,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:50:45.709+01,84b31b00000b80bb
+PO-07,Car-07,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:50:45.989+01,84b31b00000b806d
+PO-06,BSA,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:50:46.287+01,84b31b00000b80b0
+PO-06,BSA,2,B-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:50:46.287+01,84b31b00000b80b0
+PO-08,FAXS,1,WS-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:51:01.326+01,84b31b00000b80ac
+PO-07,Car-07,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:51:16.146+01,84b31b00000b806d
+PO-06,FAXS,1,Goods-Out,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:52:15.915+01,84b31b00000b80bd
+PO-08,SSA,2,WS-05,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:52:00.868+01,84b31b00000b8133
+PO-06,FAXS,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:52:31.099+01,84b31b00000b80bd
+PO-08,SSA,2,WS-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:52:46.474+01,84b31b00000b8133
+PO-08,SSA,2,B-Transfer,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:52:46.474+01,84b31b00000b8133
+PO-08,SSA,2,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:52:46.474+01,84b31b00000b8133
+PO-10,Car-10,1,B-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:53:01.455+01,84b31b00000b807d
+PO-08,FAXS,1,B-Transfer,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:53:16.206+01,84b31b00000b80ac
+PO-08,FAXS,1,WS-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:53:16.206+01,84b31b00000b80ac
+PO-09,Car-09,1,WS-05,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:53:16.595+01,84b31b00000b807c
+PO-09,Car-09,1,B-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:53:16.595+01,84b31b00000b807c
+PO-10,Car-10,1,B-05,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:53:19.998+01,84b31b00000b807d
+PO-09,BSA,2,WS-05,Generation,Unfallfahrzeug mit Heckschaden,2025-01-10 11:54:16.543+01,84b31b00000b80f0
+PO-09,Car-09,1,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:54:45.783+01,84b31b00000b807c
+PO-09,Car-09,1,WS-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:54:45.783+01,84b31b00000b807c
+PO-09,BSA,2,WS-05,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:54:46.596+01,84b31b00000b80f0
+PO-09,BSA,2,B-Transfer,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:55:01.095+01,84b31b00000b80f0
+PO-10,Car-10,1,WS-05,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 11:55:01.241+01,84b31b00000b807d
+PO-10,Car-10,1,B-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 11:55:01.241+01,84b31b00000b807d
+PO-08,SSA,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:55:01.271+01,84b31b00000b8133
+PO-08,SSA,2,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:55:01.271+01,84b31b00000b8133
+PO-08,FAXS,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:55:01.466+01,84b31b00000b80ac
+PO-08,FAXS,1,B-Transfer,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:55:01.466+01,84b31b00000b80ac
+PO-09,BSA,2,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:55:16.611+01,84b31b00000b80f0
+PO-09,Car-09,1,B-Transfer,Exit,Unfallfahrzeug mit Heckschaden,2025-01-10 11:55:16.672+01,84b31b00000b807c
+PO-09,BSA,2,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:55:30.835+01,84b31b00000b80f0
+PO-09,Car-09,1,Goods-Out,Entry,Unfallfahrzeug mit Heckschaden,2025-01-10 11:56:15.897+01,84b31b00000b807c
+PO-10,SSA,2,B-Transfer,Generation,Produktionsfehler an Stoßdämpfern,2025-01-10 11:57:01.124+01,84b31b00000b8085
+PO-08,Car-08,1,WS-04,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:57:31.734+01,84b31b00000b8072
+PO-08,Car-08,1,B-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:57:31.734+01,84b31b00000b8072
+PO-08,Car-08,1,B-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 11:58:16.346+01,84b31b00000b8072
+PO-08,Car-08,1,WS-04,Exit,Hochwertiges Altfahrzeug,2025-01-10 11:58:31.515+01,84b31b00000b8072
+PO-08,SSA,2,Goods-Out,Exit,Hochwertiges Altfahrzeug,2025-01-10 12:07:47.061+01,84b31b00000b8133
+PO-08,SSA,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 12:08:16.042+01,84b31b00000b8133
+PO-08,FAXS,1,Goods-Out,Exit,Hochwertiges Altfahrzeug,2025-01-10 12:09:16.266+01,84b31b00000b80ac
+PO-08,FAXS,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 12:09:30.928+01,84b31b00000b80ac
+PO-08,SSA,2,B-05,Entry,Hochwertiges Altfahrzeug,2025-01-10 12:16:30.909+01,84b31b00000b8133
+PO-08,SSA,2,Goods-Out,Exit,Hochwertiges Altfahrzeug,2025-01-10 12:16:30.909+01,84b31b00000b8133
+PO-08,SSA,2,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 12:16:46.62+01,84b31b00000b8133
+PO-08,SSA,2,B-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 12:16:46.62+01,84b31b00000b8133
+PO-10,SSA,2,B-Transfer,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 12:22:16.243+01,84b31b00000b8085
+PO-10,SSA,2,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 12:22:45.862+01,84b31b00000b8085
+PO-10,Car-10,1,WS-05,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 12:23:01.392+01,84b31b00000b807d
+PO-10,Car-10,1,Goods-Out,Entry,Produktionsfehler an Stoßdämpfern,2025-01-10 12:23:15.893+01,84b31b00000b807d
+PO-08,Car-08,1,Goods-Out,Entry,Hochwertiges Altfahrzeug,2025-01-10 12:23:15.911+01,84b31b00000b8072
+PO-08,Car-08,1,B-05,Exit,Hochwertiges Altfahrzeug,2025-01-10 12:23:15.911+01,84b31b00000b8072
+PO-10,SSA,2,Goods-Out,Exit,Produktionsfehler an Stoßdämpfern,2025-01-10 12:24:31.143+01,84b31b00000b8085
+PO-01,Car-01,1,Goods-In,Generation,Hochwertiges Altfahrzeug,2025-01-13 08:47:15.871+01,84b31b00000b8055
+PO-01,Car-01,1,Goods-In,Exit,Hochwertiges Altfahrzeug,2025-01-13 08:49:01.078+01,84b31b00000b8055
+PO-04,Car-04,1,WS-02,Generation,Hochwertiges Altfahrzeug,2025-01-10 11:28:00.929+01,84b31b00000b8060
+PO-05,Car-05,1,Goods-In,Generation,Hochwertiges Altfahrzeug,2025-01-13 08:55:45.852+01,84b31b00000b8062
+PO-10,Car-10,1,Goods-In,Generation,Hochwertiges Altfahrzeug,2025-01-13 08:57:01.55+01,84b31b00000b807d
+PO-10,Car-10,1,Goods-In,Exit,Hochwertiges Altfahrzeug,2025-01-13 08:57:15.741+01,84b31b00000b807d
+PO-05,Car-05,1,Goods-In,Exit,Hochwertiges Altfahrzeug,2025-01-13 08:57:16.507+01,84b31b00000b8062
