@@ -24,7 +24,9 @@ This repository contains a dataset from a learning factory, which was collected 
 
 ## Contact
 ### Contact Details
-Corresponding author: Patrick Jordan, patrick.jordan@iwb.tum.de
+Corresponding author: Patrick Jordan  
+Institutional email: patrick.jordan@iwb.tum.de  
+Personal profile: [patrick-jordan.github.io](https://patrick-jordan.github.io/)
 
 
 ### Useful Links
